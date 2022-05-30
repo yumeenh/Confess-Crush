@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Hello",
-    introTitle: 'Hi crush',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "NguyenMi",
+    introTitle: 'Chào em',
+    introDesc: `Trái đất vốn đỗi lạ thường
+    mà sao em cứ đi nhầm đường vào tim anh?`,
+ 
+    btnIntro: 'Hihi ^__^',
+    title: 'Chào em, sau khi lướt profile một thời gian thì anh khá ấn tượng về em, có thể cho anh làm quen được không?',
+    desc: 'Tranh em vẽ đẹp lắm ',
+    btnYes: 'Được ạ <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
+    question: 'Em có người iêu chưa',
+    btnReply: 'Trả lời câu hỏi ngắn có hoặc không',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100076857337928' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    mess: 'Nếu hợp nhau thì chúng ta có thể quen nhau thậm chí sau này có thể kết hôn',
+    messDesc: 'Anh trêu tí thoi 🤣',
+    btnAccept: 'okii lun <3',
+    messLink: 'https://www.facebook.com/yumeenh' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
